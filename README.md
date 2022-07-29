@@ -1,5 +1,5 @@
-### Sobre o desafio:
-- Construa um Helm Chart para a aplicação Hello-Rancher. 
+## Sobre o desafio:
+### Construa um Helm Chart para a aplicação Hello-Rancher. 
 - Imagem Docker:
 ``` 
 peteindockerhub/hello-rancher 
