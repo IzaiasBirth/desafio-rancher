@@ -55,7 +55,7 @@ ingress:
     # kubernetes.io/ingress.class: nginx
     # kubernetes.io/tls-acme: "true"
   hosts:
-    - host: hello-izaias.helm.jac.bsb.br
+    - host: hello-IZAIAS.aula.jacexperts.io
       paths:
         - path: /
           pathType: ImplementationSpecific
