@@ -55,7 +55,7 @@ ingress:
     # kubernetes.io/ingress.class: nginx
     # kubernetes.io/tls-acme: "true"
   hosts:
-    - host: hello-izaias.aula.jac.bsb.br
+    - host: hello-izaias.helm.jac.bsb.br
       paths:
         - path: /
           pathType: ImplementationSpecific
@@ -89,7 +89,7 @@ resources:
 autoscaling:
   enabled: false
   minReplicas: 1
-  maxReplicas: 5
+  maxReplicas: 4
   targetCPUUtilizationPercentage: 80
   # targetMemoryUtilizationPercentage: 80
 

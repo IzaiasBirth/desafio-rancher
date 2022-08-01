@@ -7,4 +7,4 @@ peteindockerhub/hello-rancher
 
 - Versione o seu Helm Chart em um repositório git;
 - Adicione o seu catálogo no Rancher;
-- Implante seu chart no Cluster com o domínio ``` hello-<SEU NOME>.aula.jac.bsb.br ```
+- Implante seu chart no Cluster com o domínio ``` hello-<SEU NOME>.helm.jac.bsb.br ```
